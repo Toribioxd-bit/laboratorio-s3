@@ -1,0 +1,4 @@
+resultado_analisis:
+  type: kedro_datasets.json.JSONDataset
+  filepath: data/08_reporting/resultado_analisis.json
+  
