@@ -1,4 +1,0 @@
-[
-  "tests/test_analyzer.py::test_calcular_histograma_devuelve_256_valores",
-  "tests/test_analyzer.py::test_clasificar_imagen_oscura"
-]
